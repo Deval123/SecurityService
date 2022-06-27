@@ -1,0 +1,5 @@
+se placer à la racine du projet dans l'invite de commande
+part 9 Déploiement et Test des Micro-Services
+### mvn package
+
+gestion d'integrité relationel sur mongodb se fait dans l'application
